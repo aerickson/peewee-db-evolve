@@ -11,7 +11,5 @@ class Person(pw.Model):
 
   class Meta:
     database = db
-    
+
 db.evolve()
-
-

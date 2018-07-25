@@ -1,3 +1,5 @@
 peewee==2.10.2
 peewee-db-evolve==0.6.8
 psycopg2-binary==2.7.4
+
+Flask-Security==3.0.0
